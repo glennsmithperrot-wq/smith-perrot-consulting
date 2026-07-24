@@ -15,7 +15,7 @@ index.html        Homepage
 blog.html         Insights / writing page
 style.css         Site styles
 script.js         Mobile navigation, animations, form behavior, and small interactions
-assets/           Images and logo files
+assets/           Images and logo files, including glenn.jpg
 vercel.json       Minimal Vercel configuration
 scripts/          Optional local validation script
 ```
